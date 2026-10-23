@@ -1,0 +1,8 @@
+{
+  "name": "Learnova Voice",
+  "description": "AI-powered study planning assistant and simulated Alexa+ experience for students (Amazon Developer Hackathon 2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
